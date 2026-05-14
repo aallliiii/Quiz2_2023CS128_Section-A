@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import com.example.mad_test.ui.navigation.NewsNavGraph
 import com.example.mad_test.ui.theme.Mad_testTheme
 
-class MainActivity : ComponentActivity() {``
+class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
